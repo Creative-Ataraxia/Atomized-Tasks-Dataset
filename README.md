@@ -2,7 +2,7 @@
 
 ### Overview
 
-**Atomized Tasks Dataset** is a tabular dataset of 6,970 real-world automation templates; These workflows are commonly used in SaaS, e-commerce, advertising, marketing, sales, customer support, etc. Each row represents an *atomic task*: a minimal, reusable workflow component within a larger business process.
+**Atomized Tasks Dataset** is a tabular dataset of 6,970 real-world workflows; These workflows are commonly used in SaaS, e-commerce, advertising, marketing, sales, customer support, etc. Each row represents an *atomic task*: a minimal, reusable workflow component within a larger business process.
 
 This dataset contains enriched metadata designed to support analysis, research, automation design, and *generating ideas for SaaS products* and AI agent-based tools.
 
@@ -28,21 +28,21 @@ Each row in the dataset describes an individual workflow, and includes the follo
 ```ascii
 atomized-tasks/
 ├── CSVs/
-│   ├── merged_part_1.csv        # Main dataset chunks in csv format; Each csv chunk contains 500 workflows
+│   ├── merged_part_1.csv  # Main dataset chunks in csv format; Each csv chunk contains 500 workflows
 │   ├── merged_part_2.csv
 │   ├── merged_part_3.csv
 │   ├── merged_part_4.csv
 │   └── merged_part_5.csv
 │   ...
 ├── Excels/
-│   ├── merged_part_1.xlsx       # dataset chunks in excel spreadsheet format, for easy downloading and usage
+│   ├── merged_part_1.xlsx # dataset chunks in excel spreadsheet format, for easy downloading and usage
 │   ├── merged_part_2.xlsx
 │   ├── merged_part_3.xlsx
 │   ├── merged_part_4.xlsx
 │   └── merged_part_5.xlsx
 │   ...
-├── README.md                    # Readme file of this repo
-└── LICENSE                      # license file
+├── README.md              # Readme file of this repo
+└── LICENSE                # license file
 ```
 
 ### Possible Uses
@@ -55,6 +55,11 @@ atomized-tasks/
 ...
 
 
+### Dataset Example
+
+![Dataset Example](img/dataset_example.png)
+
+
 ### Quickstart
 
 > For quick browsing, download the excel spreadsheet of the dataset chunks
@@ -64,7 +69,7 @@ Recommend using your favorite EDA tool for more in-depth explorations: `pandas`,
 
 ### Contacts for Services
 
-Please reach out to me (roy.ma9@gmail.com)[roy.ma9@gmail.com] if you have any questions regarding this dataset, or if you want to work with me to implement any workflows for your company or use cases.
+Please reach out to me [roy.ma9@gmail.com](roy.ma9@gmail.com) if you have any questions regarding this dataset, or if you want to work with me to implement any workflows for your company or use cases.
 
 
 ### License
