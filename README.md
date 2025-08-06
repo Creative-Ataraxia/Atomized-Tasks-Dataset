@@ -67,7 +67,7 @@ atomized-tasks/
 Recommend using your favorite EDA tool for more in-depth explorations: `pandas`, `polars`, `spark`
 
 
-### Contacts for Services
+### Contacts/Services
 
 Please reach out to me [roy.ma9@gmail.com](roy.ma9@gmail.com) if you have any questions regarding this dataset, or if you want to work with me to implement any workflows for your company or use cases.
 
